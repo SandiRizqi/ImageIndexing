@@ -1,0 +1,11 @@
+name: geoenv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - gdal
+  - rasterio
+  - psycopg2
+  - sqlalchemy
+
